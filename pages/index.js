@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="title">
+        <h1 className="title"> 
           Este é o ambiente dev: <a href="https://nextjs.org">alt-branch</a>
         </h1>
 
