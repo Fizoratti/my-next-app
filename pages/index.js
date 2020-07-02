@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Agora é hora de <a href="https://nextjs.org">começar</a>!
+          Este é o ambiente dev: <a href="https://nextjs.org">alt-branch</a>
         </h1>
 
         <p className="description">
