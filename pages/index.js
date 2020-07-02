@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Vai dar <a href="https://nextjs.org">tudo certo!</a>
+          Este é o ambiente de <a href="https://nextjs.org">Produção</a>
         </h1>
 
         <p className="description">
