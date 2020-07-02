@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Este é o ambiente de <a href="https://nextjs.org">Produção</a>
+          Este é o branch <a href="https://nextjs.org">Sandbox</a>
         </h1>
 
         <p className="description">
